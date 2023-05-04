@@ -1,0 +1,27 @@
+.container{
+	height:200px;
+	width:500px;
+	border-radius:10px;
+	box-shadow:1px 1px 3px #00000026;
+	margin-left:10px;
+}
+#MainHeading{
+	width:100%;
+}
+.card1{
+	width:160px;
+	height:80%;
+	display-flex;
+	flex-direction:column;
+}
+.img-card1{
+	width:100%;
+	border-radius:10px;
+}
+.country{
+	color:red;
+}
+.cards-container{
+	display-flex;
+	flex-directuin:row;
+}
